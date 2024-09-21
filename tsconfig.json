@@ -1,0 +1,7 @@
+{
+	"compilerOptions": {
+		"outDir": "bin",
+		"incremental": true,
+		"esModuleInterop": true
+	}
+}
